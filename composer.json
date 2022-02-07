@@ -1,0 +1,21 @@
+{
+  "name": "litto/facebook-signin",
+  "description": "Facebook Signin",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Message\\": "src"
+    }
+    },
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Litto Chacko",
+      "email": "littochackomp@gmail.com"
+    }
+  ]
+}
